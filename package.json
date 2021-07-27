@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@material-ui/icons": "^4.11.2",
     "bootstrap": "^5.0.2",
     "react-router-dom": "^5.2.0"
   }
